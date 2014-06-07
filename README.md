@@ -1,6 +1,6 @@
 <markdown>
-#在GNU通用公共授权协议3.0下发布##
-`http://www.gnu.org/licenses/gpl-3.0.html`
+#在GNU自由文档许可证1.3下发布##
+`http://www.gnu.org/licenses/fdl.txt`
 ###ios communication of baidu's agreement###
 #####Version-2.7 developer preview#####
 #####ios吧协议最后一个测试版######
