@@ -1,4 +1,10 @@
 #ios使用详解以及疑难解答#
 ##在GNU自由文档许可证1.3下发布##
 `http://www.gnu.org/licenses/fdl-1.3.html`
-
+---
+##*什么是ios## 
+1、苹果iOS是由苹果公司开发的闭源移动操作系统。
+2、android能刷IOS吗
+-不能
+3、ios能刷安卓吗？
+-不能
