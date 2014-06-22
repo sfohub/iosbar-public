@@ -1,12 +1,9 @@
 <markdown>
-##ios吧协议3.0正式版##
-###Version-3.0 Relaeased###
+#ios吧协议3.0正式版##
+##Version-3.0 Relaeased##
 ####在GNU自由文档许可证1.3下发布###
 `http://www.gnu.org/licenses/fdl-1.3.html`
 ##################################################
-#####Version-3.0 Relaeased#####
-
-* * * * * * * * * * * 
 
 ##`I.总则`##
 iOS吧致力于构建一个拥有良好氛围的，用于交流移动设备与其操作系统的平台，其中以iOS及Apple产品为主。
