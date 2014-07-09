@@ -1,22 +1,6 @@
-#502 Bad Gateway#
+##504 Gateway Time-ou##
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##              一定是你打开的方式不对
+###504 Gateway Time-outThe server didn't respond in time. ###
